@@ -37,6 +37,7 @@ The final stage was interpreting the numbers and identifying what they could mea
 
  ## Analysis and Key Findings
  <img width="1036" height="678" alt="Dashboard" src="https://github.com/user-attachments/assets/e7198dae-fc07-4cb4-83ce-14efa19b36ed" />
+ 
 1. Revenue, Profit and Profit Margin: The business generated approximately ₦2.33 billion in revenue and ₦465.67 million in profit. This translates to a profit margin of approximately 20%. I included these figures to establish a clear picture of the business's overall financial performance before looking at individual products and sales contributors.
 
 2.  Product Profitability: Laptop A13 was the highest-profit product, generating approximately ₦105.3 million in profit. This accounted for about 23% of the business's total profit.The analysis also showed that Laptop A13, Sofa Classic, and Desktop PC D21 together contributed approximately 52% of total profit.This was an important finding because it showed that a relatively small group of products accounted for a substantial share of the business's profit.
