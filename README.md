@@ -5,8 +5,9 @@ This project focuses on cleaning, transforming, and analyzing employee data usin
 
 ## Dataset
 The workbook contains two sheets:
-- Raw Dataset: The original, uncleaned data.
-- Clean Dataset: The cleaned and standardized data.
+- Raw Dataset: The original, uncleaned data. <img width="1848" height="777" alt="Raw dataset" src="https://github.com/user-attachments/assets/ecfdf46e-8c0e-4cd7-b8fd-154769133140" />
+- Clean Dataset: The cleaned and standardized data.<img width="1872" height="690" alt="Cleaned dataset" src="https://github.com/user-attachments/assets/ee6ace86-c7d6-4d8d-bc33-94a46ff02fb5" />
+
 
 ## Tools Used
 - Microsoft Excel
